@@ -7,7 +7,7 @@ Copyright (C) 2020, Mattia Bruno
 
 ## Features
 
- * simple to use, designed for Python 3
+ * simple to use, designed for Python
  * binary format, for compactness
  * index file for quick inspection with bash commands or editors
  * concatenable file format, just use `cat`
